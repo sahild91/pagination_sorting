@@ -1,7 +1,7 @@
 # Pagination and Sorting Package
 
 [![PyPI Version](https://img.shields.io/pypi/v/pagination-sorting)](https://pypi.org/project/pagination-sorting/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/pagination-sorting/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sahild91/pagination-sorting/blob/main/LICENSE)
 [![Python Versions](https://img.shields.io/pypi/pyversions/pagination-sorting)](https://pypi.org/project/pagination-sorting/)
 
 A powerful and flexible pagination and sorting package for arrays and lists, compatible with Django and Flask-based apps. It provides a wide range of features to simplify pagination and sorting in your Python projects.
